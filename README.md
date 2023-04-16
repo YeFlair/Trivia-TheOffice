@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+### Trivia Game: The Office:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This interactive web application allows users to test their knowledge across various categories and submit their scores for one of the greatest shows to exist, The Office. Users can select a category of interest and answer multiple-choice questions within a specific time frame. At the end of the game, the user can submit their score and name to a database.
 
-## Available Scripts
+## Features:
 
-In the project directory, you can run:
+- Choose from various categories of trivia questions
+- A timer that counts down the remaining time to answer the question
+- Navigation buttons for the user to navigate between questions
+- A submit button to submit the score to the database
+- A database to store users' scores
+- The ability to display the top scores
 
-### `npm start`
+## Technologies:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React
+Firebase
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Struggles:
 
-### `npm test`
+One of the main challenges faced during the development of this project was the time management for each question. The timer had to be implemented, which meant that the user only had a certain amount of time to answer each question. I had to ensure that the timer worked accurately and the user could not manipulate the timer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Functionality:
 
-### `npm run build`
+The application allows users to select a category of interest and answer multiple-choice questions within a specific time frame. Users can navigate between questions using navigation buttons and submit their scores to the database at the end of the game. The application can display the top scores.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How to Use
+[I'm an inline-style link](https://www.google.com) <!-- google is placeholder -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contribute:
+I used to always look for projects to contribute to but felt discouraged by the negativity in some repo communities or projects that were too advanced for my current skills. That's why I make all my projects open-source at a moderate beginner level and welcome contributors from all experiences. Create more questions, add more features, and have fun! 
 
-### `npm run eject`
+I welcome and appreciate any contributions to this project. If you would like to contribute, please follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Fork this repository
+- Create a new branch (git checkout -b feature/your-feature-name)
+- Make changes and commit them (git commit -m 'Add some feature')
+- Push to the branch (git push origin feature/your-feature-name)
+- Open a pull request
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- 
+How to Use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Clone the repository to your local machine.
+Navigate to the project directory.
+Run npm install to install dependencies.
+Run npm start to start the application.
+The application will launch in your default browser at http://localhost:3000/. -->
