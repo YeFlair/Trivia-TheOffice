@@ -13,8 +13,11 @@ This interactive web application allows users to test their knowledge across var
 
 ## Technologies:
 
-React
-Firebase
+- React
+- Firebase
+
+## Blog:
+[www.medium.com/?????]
 
 ## Struggles:
 
@@ -30,8 +33,6 @@ The application allows users to select a category of interest and answer multipl
 
 ## Contribute:
 I used to always look for projects to contribute to but felt discouraged by the negativity in some repo communities or projects that were too advanced for my current skills. That's why I make all my projects open-source at a moderate beginner level and welcome contributors from all experiences. Create more questions, add more features, and have fun! 
-
-I welcome and appreciate any contributions to this project. If you would like to contribute, please follow these steps:
 
 Fork this repository
 - Create a new branch (git checkout -b feature/your-feature-name)
