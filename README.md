@@ -29,7 +29,7 @@ The application allows users to select a category of interest and answer multipl
 
 
 ## How to Use
-[I'm an inline-style link](https://www.google.com) <!-- google is placeholder -->
+[Play Here](https://famous-salamander-0c178d.netlify.app) 
 
 ## Contribute:
 I used to always look for projects to contribute to but felt discouraged by the negativity in some repo communities or projects that were too advanced for my current skills. That's why I make all my projects open-source at a moderate beginner level and welcome contributors from all experiences. Create more questions, add more features, and have fun! 
